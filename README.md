@@ -24,17 +24,17 @@ My ultimate goal is to become a **Supply Chain Analyst**, where I can blend anal
 Here are some R packages I love using in my projects:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tidyverse/ggplot2/main/man/figures/logo.png" alt="ggplot2" height="60"/>
+  <img src="https://raw.githubusercontent.com/tidyverse/ggplot2/main/man/figures/logo.png" alt="ggplot2" height="100"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/tidyverse/tidyr/main/man/figures/logo.png" alt="tidyr" height="60"/>
+  <img src="https://raw.githubusercontent.com/tidyverse/tidyr/main/man/figures/logo.png" alt="tidyr" height="100"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/tidyverse/lubridate/main/man/figures/logo.png" alt="lubridate" height="60"/>
+  <img src="https://raw.githubusercontent.com/tidyverse/lubridate/main/man/figures/logo.png" alt="lubridate" height="100"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tidyverse/dplyr/main/man/figures/logo.png" alt="dplyr" height="60"/>
+  <img src="https://raw.githubusercontent.com/tidyverse/dplyr/main/man/figures/logo.png" alt="dplyr" height="100"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/rstudio/shiny/main/man/figures/logo.png" alt="shiny" height="60"/>
+  <img src="https://raw.githubusercontent.com/rstudio/shiny/main/man/figures/logo.png" alt="shiny" height="100"/>
 </p>
 ---
 
