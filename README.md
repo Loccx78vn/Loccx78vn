@@ -21,5 +21,5 @@ My ultimate goal is to become a **Supply Chain Analyst**, where I can blend anal
 > That’s the motto I live and work by. 💝
 
 ---
-
-Cảm ơn các bạn đã ghé thăm! Hi vọng các bạn sẽ thích những nội dung mình chia sẻ tại đây. 😊
+Thanks for stopping by!  
+**Hope you learned something new, and I'm always here to help if you ever need anything.** 😊
