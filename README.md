@@ -30,4 +30,4 @@ Here are some R packages I love using in my projects:
   <img src="https://raw.githubusercontent.com/rstudio/shiny/main/man/figures/logo.png" alt="shiny" height="100"/>
 </p>
 Thanks for stopping by!  
-**Hope you learned something new, and I'm always here to help if you ever need anything.** 😊
+*Hope you learned something new, and I'm always here to help if you ever need anything.* 😊
